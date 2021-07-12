@@ -30,6 +30,8 @@ body {
 .home-form-label {
   display: flex;
   align-items: center;
+  margin: auto;
+  width: 350px;
 }
 
 .home-form-label > *{
